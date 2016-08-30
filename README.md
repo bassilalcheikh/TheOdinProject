@@ -1,6 +1,6 @@
 # TheOdinProject
 Web design projects from The Odin Project. 
 
-Google Homepage .......
+Google Homepage ....... google_index.html
 
-Android Logo ...............
+Android Logo ............... android_logo.html
